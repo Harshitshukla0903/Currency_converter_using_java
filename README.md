@@ -1,6 +1,3 @@
-Absolutely! Here’s a professional and easy-to-follow **README** for your Java Swing-based Currency Converter:
-
----
 
 # 💱 Currency Converter
 
